@@ -242,6 +242,10 @@ $ npm run serve
 
 - 익명 이름, 비밀번호 입력 후 게시글 작성
 
+  ![](README_assets/articlecreate.png)
+
+  ![](README_assets/article.png)
+
 ### 추가 기능
 
 - Scroll to Top
